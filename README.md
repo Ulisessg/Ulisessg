@@ -139,14 +139,9 @@
 
 <br />
 
-<div>
-  <h2>Read my last posts:</h2>
 
-  <br />
+<h2>Read my last posts:</h2>
 
-  <iframe id="inlineFrameExample"
-    title="Inline Frame Example"
-    width="400"
-    height="700"
-    src="https://ulisessg.com/blog"></iframe>
-</div>
+<br />
+
+<iframe title="Last entries of my blog" width="400" height="700" src="https://ulisessg.com/blog"></iframe>
