@@ -148,7 +148,5 @@
     title="Inline Frame Example"
     width="400"
     height="700"
-    src="https://ulisessg.com/blog">
-  </iframe>
-
+    src="https://ulisessg.com/blog"></iframe>
 </div>
