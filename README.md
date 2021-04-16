@@ -139,9 +139,8 @@
 
 <br />
 
+## Sites:
 
-<h2>Read my last posts:</h2>
+### [Personal blog](https://ulisessg.com/blog)
 
-<br />
-
-<iframe title="Last entries of my blog" width="400" height="700" src="https://ulisessg.com/blog" />
+### [Learn good practices and recommendations with code pieces](https://ulisessg.com/gist)
