@@ -144,4 +144,4 @@
 
 <br />
 
-<iframe title="Last entries of my blog" width="400" height="700" src="https://ulisessg.com/blog"></iframe>
+<iframe title="Last entries of my blog" width="400" height="700" src="https://ulisessg.com/blog" />
