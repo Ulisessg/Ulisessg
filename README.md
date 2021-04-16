@@ -132,12 +132,9 @@
 <br />
 
 <p align="left">
-<a  href="https://twitter.com/ulises5g" target="blank"><img style="
-    background-color: white;" align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ulises5g" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ulisessg" target="blank"><img style="
-    background-color: white;" align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ulisessg" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ukisessg" target="blank"><img style="
-    background-color: white;" align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="ukisessg" height="30" width="40" /></a>
+<a  href="https://twitter.com/ulises5g" target="blank"><img style="background-color: white;" align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ulises5g" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ulisessg" target="blank"><img style="background-color: white;" align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ulisessg" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ukisessg" target="blank"><img style="background-color: white;" align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="ukisessg" height="30" width="40" /></a>
 </p>
 
 <br />
