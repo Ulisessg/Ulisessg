@@ -150,4 +150,4 @@ I've worked using<b> React, MongoDB, Express.js, Node.js, Nextjs and Typescript<
 
 **"Si puedes imaginarlo puedes programarlo"**
 
-> Alejandro Taobada
+> Alejandro Taboada
