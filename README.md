@@ -40,7 +40,7 @@ I've worked using<b> React, MongoDB, Express.js, Node.js, Nextjs and Typescript<
 
 <!-- Frameworks -->
 
-<h3>Frameworks and libraries </h3>
+<h3>Frameworks and libraries 🛠</h3>
 
 <p align="left">
   <!-- React -->
@@ -68,7 +68,7 @@ I've worked using<b> React, MongoDB, Express.js, Node.js, Nextjs and Typescript<
 
 </p>
 
-<h3>Databases</h3>
+<h3>Databases 🎒</h3>
 
 <!-- Databases -->
 
@@ -80,7 +80,7 @@ I've worked using<b> React, MongoDB, Express.js, Node.js, Nextjs and Typescript<
 </p>
 
 <!-- Design -->
-<h3>Design</h3>
+<h3>Design 👩‍🎨</h3>
 
 <p align="left">
   <!-- Figma -->
@@ -92,7 +92,7 @@ I've worked using<b> React, MongoDB, Express.js, Node.js, Nextjs and Typescript<
 
 <!-- Cloud -->
 
-<h3>Cloud</h3>
+<h3>Cloud ⛈</h3>
 
 <p align="left">
 
@@ -112,7 +112,7 @@ I've worked using<b> React, MongoDB, Express.js, Node.js, Nextjs and Typescript<
 </p>
 
 
-<h3>Contact</h3>
+<h3>Contact 📲</h3>
 
 <p align="left">
   <b>Email: ukisessg@gmail.com</b>
@@ -121,7 +121,7 @@ I've worked using<b> React, MongoDB, Express.js, Node.js, Nextjs and Typescript<
   <a href="mailto:ukisessg@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"></a>
 </p>
 
-<h3 align="left">Connect with me</h3>
+<h3 align="left">Connect with me 🖖</h3>
 
 <p align="left">
 
@@ -140,7 +140,7 @@ I've worked using<b> React, MongoDB, Express.js, Node.js, Nextjs and Typescript<
 
 
 
-## Sites:
+## Sites 📖
 
 ### [Portafolio](https://ulisessg.com/)
 
