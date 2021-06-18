@@ -148,6 +148,8 @@ I've worked using<b> React, MongoDB, Express.js, Node.js, Nextjs and Typescript<
 
 ### [Learn good practices and recommendations with code pieces](https://ulisessg.com/gist)
 
+### [Platzi profile](https://platzi.com/p/UlisesSG/)
+
 **"Si puedes imaginarlo puedes programarlo"**
 
 > Alejandro Taboada
