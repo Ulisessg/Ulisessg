@@ -1,4 +1,4 @@
-<img src="https://firebasestorage.googleapis.com/v0/b/web-projects-50e7e.appspot.com/o/images%2Fv2%2FUlises%20Antonio%20Samano%20Galvan%20Full%20Stack%20Developer.png?alt=media&token=27ce101b-0901-4f75-917d-46276a3f0d89" alt="Ulises Antonio Sámano Galván" >
+<img src="https://firebasestorage.googleapis.com/v0/b/web-projects-50e7e.appspot.com/o/images%2Fv2%2Fcovers%2FUlises%20Antonio%20Samano%20Galvan%20-%20Ulisessg%20-%20en.png?alt=media&token=9cbc692b-5be5-406a-8df7-aa89b1e650aa" alt="Ulises Antonio Sámano Galván" >
 
 <h1 align="center">Hi 👋 I'm Ulises Antonio</h1>
 <h2 align="center">I'm Full Stack developer with MERN stack and <a href="https://platzi.com/blog/conoce-que-es-platzi-master/">Platzi master</a> student. I love Atomic Design, React, Typescript, Science and knowledge 💚</h2>
