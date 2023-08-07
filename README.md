@@ -35,7 +35,7 @@
   <a href="#"><img alt="Styled components" src="https://img.shields.io/badge/styled--components-FFFFFF?logo=styled-components"></a>
 
   <!-- Express -->
-  <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js%20-%23404d59.svg?logo=express&logoColor=white"></a>
+  <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express-FFFFFF?logo=express&logoColor=black"></a>
 
   <!-- Redux -->
   <a href="#"><img alt="Redux" src="https://img.shields.io/badge/Redux-FFFFFF?logo=redux&logoColor=black"></a>
