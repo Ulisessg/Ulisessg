@@ -29,10 +29,10 @@
 <a href="#"><img src="https://img.shields.io/badge/Electron-FFFFFF?logo=electron&logoColor=white%22" alt="Electron" ></a>
   
   <!-- Next.js -->
-  <a href="#"><img alt="Next.js" src="https://img.shields.io/badge/next.js-FFFFFF?style=&logo=nextdotjs&logoColor=black"></a>
+  <a href="#"><img alt="Next.js" src="https://img.shields.io/badge/Next.js-FFFFFF?style=&logo=nextdotjs&logoColor=black"></a>
 
   <!-- Styled components -->
-  <a href="#"><img alt="Styled components" src="https://img.shields.io/badge/styled--components-FFFFFF?logo=styled-components"></a>
+  <a href="#"><img alt="Styled components" src="https://img.shields.io/badge/Styled--components-FFFFFF?logo=styled-components"></a>
 
   <!-- Express -->
   <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express-FFFFFF?logo=express&logoColor=black"></a>
