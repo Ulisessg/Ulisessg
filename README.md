@@ -57,6 +57,13 @@
   <a href="#"><img alt="Sqlite" src="https://img.shields.io/badge/Sqlite-FFFFFF?logo=sqlite&logoColor=black"></a>
 </p>
 
+<!-- Tools -->
+<h3>Tools</h3>
+<p align="left">
+  <!-- Docker -->
+  <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-FFFFFF?logo=docker&logoColor=blue"></a>
+</p>
+
 <!-- OS -->
 <h3>OS 💻</h3>
 
@@ -65,6 +72,9 @@
   <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black"></a>
   <!-- Ubuntu -->
   <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white"></a>
+  <!-- Ubuntu server -->
+  
+  <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu Server-E95420?logo=ubuntu&logoColor=white"></a>
 
 </p>
 
